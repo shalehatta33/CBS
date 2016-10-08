@@ -3,3 +3,7 @@ NPM		: 140810160023
 TTL		: Bandung, 09 Oktober 1998
 Jenis Kelamin	: Laki-Laki
 Hobby		: Futsal dan Main Game
+
+Nama		: Eko Fajar Putra
+NPM		: 140810160061
+
